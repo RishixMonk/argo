@@ -13,7 +13,7 @@ spec:
         app: mtya
     spec:
       containers:
-      - name: myapp122
+      - name: myapp
         image: nanajanashia/argocd-app:1.2
         ports:
         - containerPort: 8080
