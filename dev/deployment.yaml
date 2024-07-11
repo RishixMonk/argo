@@ -10,7 +10,7 @@ spec:
   template:
     metadata:
       labels:
-        app: myapp
+        app: myapp1
     spec:
       containers:
       - name: myapp
