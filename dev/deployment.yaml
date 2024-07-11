@@ -10,7 +10,7 @@ spec:
   template:
     metadata:
       labels:
-        app: myapp1178823
+        app: mtya
     spec:
       containers:
       - name: myapp
